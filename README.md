@@ -1,1 +1,1 @@
-This small app just shows you new deals about games of all platforms. 
+This small app which shows you new deals about games for all platforms. 
